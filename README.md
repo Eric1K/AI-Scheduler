@@ -1,6 +1,7 @@
 # AI-Scheduler-For-LionPath
 
 *Submission for HackPSU Spring 2024*
+Submission Link: https://devpost.com/software/lion-s-advisor
 
 # Lion's Advisor
 Lion's Advisor is a tool that students can use to see their potential schedules for the future without the hassle of scheduling an appointment with their adivsor or pouring through countless documents and websites to find the courses and requirements they need to fill.
@@ -24,6 +25,9 @@ Lion's Advisor is a site where you can put in your major, your current semester,
 
 ## How we built it
 To build Lion's Advisor, we first set up an integration with Chat-GPT in order to parse our course information for it to analyze. Once that was finished, we started work on our website, trying to make it as intuitive as possible so that use can be widespread.
+
+## Demo
+https://vimeo.com/manage/videos/924303100
 
 ## Challenges we ran into
 1. Implementing Chat-GPT and learning how to work with the API
