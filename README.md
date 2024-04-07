@@ -1,7 +1,6 @@
 # AI-Scheduler-For-LionPath
 
-*Submission for HackPSU Spring 2024*
-Submission Link: https://devpost.com/software/lion-s-advisor
+*Submission for HackPSU Spring 2024:* https://devpost.com/software/lion-s-advisor
 
 # Lion's Advisor
 Lion's Advisor is a tool that students can use to see their potential schedules for the future without the hassle of scheduling an appointment with their adivsor or pouring through countless documents and websites to find the courses and requirements they need to fill.
