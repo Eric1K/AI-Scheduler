@@ -26,7 +26,7 @@ Lion's Advisor is a site where you can put in your major, your current semester,
 To build Lion's Advisor, we first set up an integration with Chat-GPT in order to parse our course information for it to analyze. Once that was finished, we started work on our website, trying to make it as intuitive as possible so that use can be widespread.
 
 ## Demo
-https://vimeo.com/manage/videos/924303100
+<iframe src="https://player.vimeo.com/video/924303100" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Challenges we ran into
 1. Implementing Chat-GPT and learning how to work with the API
